@@ -1,9 +1,19 @@
 
 # Awesome StarCraft AI
 
-A curated list of resources dedicated to StarCraft AI.
+Essentially， StarCraft is a game of incomplete information game. <br>
+As a Real-Time Strategy game, Starcraft AI contains a lot. (Multiagents, incomplete information, micromanagement, fullgame strategy plan...)<br>
 
-We are looking for more contributors and maintainers!
+This is a list of resources dedicated to StarCraft AI.<br>
+If you have more resource/information about it, just fork & pull request.
+
+---
+## Why?
+
+[Hyunsoo Kim](https://github.com/hshyunsookim/) and others create a list resource about it and make a 'awesome' name(!?), but they dont update in last six months. On the other hand, the structure of this list should be changed.StarCraft I & StarCraft II  are completely two different games.
+
+---
+
 
 ## Table of Contents
  - [API/Codes](#apicodes)
@@ -25,20 +35,11 @@ We are looking for more contributors and maintainers!
  - [Competitions](#competitions)
  - [Others](#others)
 
-<div>
-<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/3.png?raw=true" width="99.5%">
-<div align="center">Photo Credit: Google DeepMind <a href="https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/">[Link]</a></div>
-<br>
-</div>
-<div>
-<img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/1.png?raw=true" width="45.5%"><img align="center" src="https://github.com/SKTBrain/awesome-starcraftAI/blob/master/images/2.jpg?raw=true" width="53.5%">
-<div align="center">Photo Credit: Gabriel Synnaeve <a href="http://emotion.inrialpes.fr/people/synnaeve/phdthesis/phdthesis.html">[Link]</a></div>
-</div>
-<br>
+
 
 
 ## API/Codes
-- The Brood War API (BWAPI). [[GitHub]](https://github.com/bwapi/bwapi)
+- The Brood War API (BWAPI)[[Link]](https://bwapi.github.io/) [[GitHub]](https://github.com/bwapi/bwapi) 
 - StarCraft II API - Technical Design, Blizzard. [[Link]](http://us.battle.net/forums/en/sc2/topic/20751114921)
 - SparCraft, a combat simulator for StarCraft. [[GitHub]](https://github.com/davechurchill/ualbertabot)
 - BWTA, A terrain analyzer for BWAPI. [[Link]](https://code.google.com/archive/p/bwta/)
@@ -146,5 +147,3 @@ We are looking for more contributors and maintainers!
 - StarCraft II AI Blog, by Matt Fisher. [[Blog]](https://graphics.stanford.edu/~mdfisher/GameAIs.html)
 - Game AI 101, SK T-Brain. [[Link]](https://www.facebook.com/SKTBrain/photos/pcb.316808125356675/316807855356702/?type=3&theater)
 
-<br>
-<div align="center">Maintainer: <a href="https://github.com/hshyunsookim">Hyunsoo Kim</a></div>
