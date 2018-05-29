@@ -6,7 +6,7 @@ StarCraft(Brood War) AI, a way to try to be the strongest player. Now, the goal 
 
 In this repository, you will find many:
 
-1. [API&Extensions](#API&Extensions)
+1. API&Extensions
 2. Tournaments (big3 SSAIT/CIG/AIIDE)
 3. Papers
 5. Others(researcher list; platform or others i cant remember now )
@@ -17,7 +17,7 @@ Just enjoy it!
 
 ---
 
-# API&Extensions
+# API & Extensions
 
 
 - BWAPI [[Link]](https://bwapi.github.io/) [[github]](https://github.com/bwapi/bwapi) a free and open source C++ framework that is used to interact with the popular Real Time Strategy (RTS) game Starcraft: Broodwar.
