@@ -39,10 +39,9 @@ If you have more resource/information about it, just fork & pull request.
 
 
 ## API/Tools
-- The Brood War API (BWAPI)[[Link]](https://bwapi.github.io/) [[GitHub]](https://github.com/bwapi/bwapi) 
+
 - StarCraft II API - Technical Design, Blizzard. [[Link]](http://us.battle.net/forums/en/sc2/topic/20751114921)
-- SparCraft, a combat simulator for StarCraft. [[GitHub]](https://github.com/davechurchill/ualbertabot)
-- BWTA, A terrain analyzer for BWAPI. [[Link]](https://code.google.com/archive/p/bwta/)
+
 - BroodWar Replay Scrapper in Python, Gavriel Synnaeve. [[GitHub]](https://github.com/syhw/Broodwar_replays_scrappers)
 
 ## Replays
@@ -137,7 +136,7 @@ If you have more resource/information about it, just fork & pull request.
 - AAAI AIIDE StarCraft AI Competition, 2016. [[Link]](http://www.cs.mun.ca/~dchurchill/starcraftaicomp/)
 - IEEE CIG StarCraft AI Competition, 2016. [[Link]](https://sites.google.com/site/starcraftaic/)
    - Highlights Video. [[Link]](https://www.facebook.com/cjdahrl/videos/1155031857896481/)
-- SSCAIT, Student StarCraft AI Tournament [[Link]](http://sscaitournament.com/)
+
 
 
 ## Others
@@ -147,17 +146,4 @@ If you have more resource/information about it, just fork & pull request.
 - StarCraft II AI Blog, by Matt Fisher. [[Blog]](https://graphics.stanford.edu/~mdfisher/GameAIs.html)
 - Game AI 101, SK T-Brain. [[Link]](https://www.facebook.com/SKTBrain/photos/pcb.316808125356675/316807855356702/?type=3&theater)
 
-[[Unusual Unit Morphs]](https://github.com/nturley/bwapi-notes)
 
-## Datas
-
-
-[[StarCraft: Brood War's Mechanics]](http://www.starcraftai.com/wiki/Main_Page) Ctrl+F+Mechanics
-
-[[BW order timings]](https://docs.google.com/document/d/1a-6NqHI3Leqe6FOZph_K5NLWx27VG1sa87bRSdjQotU/edit)
-
-[[StarCraft WeaponType Data]](https://docs.google.com/spreadsheets/d/1YWFzY0_MEE4fOy9HrvZCYSpRqjgSBdCeRYVxB6zmJpQ/edit#gid=0)
-
-[[StarCraft TechType Data]](https://docs.google.com/spreadsheets/d/1FpB8e7VJYubaqTtMLoc457a319Wu8yT8jTM6hPq6pT8/edit#gid=0)
-
-[[StarCraft UnitType Data]](https://docs.google.com/spreadsheets/d/1jlYDkXW2pQey1oGJlQRBiGjdMs0kfrdHAwzVI2zAjrU/edit#gid=0)
