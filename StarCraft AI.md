@@ -52,11 +52,11 @@ Extensions
 
 ## Tournaments
 
-- SSCAIT Student StarCraft AI Tournament [[Link]](https://sscaitournament.com/)
+- SSCAIT Student StarCraft AI Tournament [[Link]](https://sscaitournament.com/) [[wiki]](http://www.starcraftai.com/wiki/SSCAIT)
 
 - CIG Computational Intelligence in Games [[Link]](http://www.ieee-cig.org/)
 
-- AIIDE Artificial Intelligence and Interactive Digital Entertainment [[Link]](http://www.aaai.org/Library/AIIDE/aiide-library.php)
+- AIIDE Artificial Intelligence and Interactive Digital Entertainment [[Link]](http://www.aaai.org/Library/AIIDE/aiide-library.php) [[Link]](https://www.cs.mun.ca/~dchurchill/starcraftaicomp/)
 
 
 
@@ -108,7 +108,7 @@ https://github.com/Eric-Wallace/starcraft-research-papers
 
 - UAlbertaBot [[github]](https://github.com/davechurchill/ualbertabot) Boxer in opensource StarCraft AI Bot made by davechurchill, with tools(BOSS/SparCraft) & Installaion Guides. [[youtube]](https://www.youtube.com/watch?v=lSmkDjFm3Tw)
 
-- ZZZKBot [[Link]](https://github.com/chriscoxe/ZZZKBot) [[github]](https://github.com/chriscoxe/ZZZKBot)
+- ZZZKBot [[github]](https://github.com/chriscoxe/ZZZKBot)
 
 - Steamhammer [[Link]](http://satirist.org/ai/starcraft/steamhammer/) A BWAPI bot playing zerg in StarCraft Brood War, made by [Jay Scott](http://satirist.org/), he has a StarCraft AI [Blog](http://satirist.org/ai/starcraft/blog/)
 
@@ -117,7 +117,7 @@ https://github.com/Eric-Wallace/starcraft-research-papers
 
 - SSCAI Map Pack [[Collection]](https://sscaitournament.com/index.php?action=maps) [[Downloard]](https://sscaitournament.com/files/sscai_map_pack.zip)
 
-- StarCraft AI, a StarCraft AI resource page. [[Link]](http://www.starcraftai.com/wiki/Main_Page)
+- StarCraft AI, a StarCraft AI resource page.(SC wiki) [[Link]](http://www.starcraftai.com/wiki/Main_Page)
 
 
 - Improving mineral gathering rate in Brood War (using BWAPI) [[Link]](http://www.teamliquid.net/forum/brood-war/484849-improving-mineral-gathering-rate-in-brood-war)
@@ -141,3 +141,7 @@ University of Maastricht (Netherlands)
 University of Southern California (USA)
 
  Technical University of Denmark (Denmark)
+
+ https://cis.ieee.org/games-tc.html
+
+ 

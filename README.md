@@ -1,16 +1,16 @@
 
 # Awesome StarCraft AI
 
-Essentially， StarCraft is a game of incomplete information game. <br>
-As a Real-Time Strategy game, Starcraft AI contains a lot. (Multiagents, incomplete information, micromanagement, fullgame strategy plan...)<br>
 
-This is a list of resources dedicated to StarCraft AI.<br>
+As a Real-Time Strategy game, Starcraft AI contains a lot. (Multiagents, incomplete information, micromanagement, fullgame strategy plan...). Essentially, StarCraft is a game of incomplete information game. <br>
+
+This is a list of resources about StarCraft AI.<br>
 If you have more resource/information about it, just fork & pull request.
 
 ---
 ## Why?
 
-[Hyunsoo Kim](https://github.com/hshyunsookim/) and others create a list resource about it and make a 'awesome' name(!?), but they dont update in last six months. On the other hand, the structure of this list should be changed.StarCraft I & StarCraft II  are completely two different games.
+[Hyunsoo Kim](https://github.com/hshyunsookim/) and others create a list resource about it and make a 'awesome' name(!), but they dont update in last six months(?). On the other hand, the structure of this list should be changed, I will add some resource in this list. Now, StarCraft I & StarCraft II  are completely two different games. 
 
 ---
 
@@ -38,7 +38,7 @@ If you have more resource/information about it, just fork & pull request.
 
 
 
-## API/Codes
+## API/Tools
 - The Brood War API (BWAPI)[[Link]](https://bwapi.github.io/) [[GitHub]](https://github.com/bwapi/bwapi) 
 - StarCraft II API - Technical Design, Blizzard. [[Link]](http://us.battle.net/forums/en/sc2/topic/20751114921)
 - SparCraft, a combat simulator for StarCraft. [[GitHub]](https://github.com/davechurchill/ualbertabot)
@@ -147,3 +147,17 @@ If you have more resource/information about it, just fork & pull request.
 - StarCraft II AI Blog, by Matt Fisher. [[Blog]](https://graphics.stanford.edu/~mdfisher/GameAIs.html)
 - Game AI 101, SK T-Brain. [[Link]](https://www.facebook.com/SKTBrain/photos/pcb.316808125356675/316807855356702/?type=3&theater)
 
+[[Unusual Unit Morphs]](https://github.com/nturley/bwapi-notes)
+
+## Datas
+
+
+[[StarCraft: Brood War's Mechanics]](http://www.starcraftai.com/wiki/Main_Page) Ctrl+F+Mechanics
+
+[[BW order timings]](https://docs.google.com/document/d/1a-6NqHI3Leqe6FOZph_K5NLWx27VG1sa87bRSdjQotU/edit)
+
+[[StarCraft WeaponType Data]](https://docs.google.com/spreadsheets/d/1YWFzY0_MEE4fOy9HrvZCYSpRqjgSBdCeRYVxB6zmJpQ/edit#gid=0)
+
+[[StarCraft TechType Data]](https://docs.google.com/spreadsheets/d/1FpB8e7VJYubaqTtMLoc457a319Wu8yT8jTM6hPq6pT8/edit#gid=0)
+
+[[StarCraft UnitType Data]](https://docs.google.com/spreadsheets/d/1jlYDkXW2pQey1oGJlQRBiGjdMs0kfrdHAwzVI2zAjrU/edit#gid=0)
