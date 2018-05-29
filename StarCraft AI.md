@@ -6,7 +6,7 @@ StarCraft(Brood War) AI, a way to try to be the strongest player. Now, the goal 
 
 In this repository, you will find many:
 
-1. [API & Extensions](#API-&-Extensions)
+1. [API & Extensions](#API&Extensions)
 2. Tournaments (big3 SSAIT/CIG/AIIDE)
 3. Papers
 5. Others(researcher list; platform or others i cant remember now )
